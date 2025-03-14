@@ -5,7 +5,9 @@ Welcome to the **Panda Login Animated Page**! This project showcases an animated
 ## Demo
 
 ![Panda Login Website Demo](image/001.png)  
-![Panda Login Website Demo Contact](image/002.png)
+![Panda Login Website Demo 1](image/002.png)
+![Panda Login Website Demo 2](image/003.png)
+
 
 Here’s the **[Demo Video](#)** to see the project in action!
 
