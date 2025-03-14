@@ -85,7 +85,7 @@ document.addEventListener("click", (e) => {
  window.addEventListener('resize', resizeCanvas);
  resizeCanvas();
 
- // Particle class for creating networking-like balls
+ // Particle snow effect for creating 
  class Particle {
    constructor(x, y) {
      this.x = x;
