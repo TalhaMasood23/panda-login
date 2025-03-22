@@ -2,7 +2,7 @@
 
 Welcome to the **Panda Login Animated Page**! This project showcases an animated login page featuring a playful panda character. The page is designed with **HTML**, **CSS**, and **JavaScript**, bringing a delightful experience for users. This code is completely **free**, and I’m offering it as a **Ramazan gift** to you all to spread some joy!. Follow me for more Free code
 
-## Demo
+## Demos
 
 ![Panda Login Website Demo](image/001.png)  
 ![Panda Login Website Demo 1](image/002.png)
